@@ -16,6 +16,7 @@ An IPO (Initial Public Offering) Web App built for Bluestock Fintech as part of 
 ## 📌 Features
 
 ### 🔍 Public User Interface
+
 - List IPOs (Upcoming, Ongoing, Listed)
 - IPO Detail Page
 - RHP & DRHP PDF Downloads
