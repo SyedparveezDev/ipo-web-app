@@ -29,6 +29,7 @@ An IPO (Initial Public Offering) Web App built for Bluestock Fintech as part of 
 - Upload RHP/DRHP PDFs & Logos
 
 ### 📡 RESTful API
+
 - `GET /api/ipo/` → All IPOs
 - `GET /api/ipo/<id>/` → IPO Detail
 - Search, Filter & Sort supported
