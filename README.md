@@ -61,6 +61,7 @@ An IPO (Initial Public Offering) Web App built for Bluestock Fintech as part of 
 ## 🛠️ Setup Instructions
 
 1. **Clone the repo**
+
    ```bash
    git clone https://github.com/your-username/ipo-web-app.git
    cd ipo-web-app
