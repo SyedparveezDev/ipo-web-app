@@ -23,6 +23,7 @@ An IPO (Initial Public Offering) Web App built for Bluestock Fintech as part of 
 - Search and Filter by Name/Status
 
 ### 🔐 Admin Panel
+
 - Login-secured Dashboard
 - Create, Update, Delete IPOs
 - Upload RHP/DRHP PDFs & Logos
