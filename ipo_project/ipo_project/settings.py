@@ -76,11 +76,11 @@ WSGI_APPLICATION = 'ipo_project.wsgi.application'
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
-     'default': {
+      'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ipo_db',
         'USER': 'postgres',
-        'PASSWORD': 'your_password',
+        'PASSWORD': 'your_password',  # Replace with your actual password
         'HOST': 'localhost',
         'PORT': '5432',
     }
